@@ -1,5 +1,5 @@
 module.exports = {
-  title: '小慕读书',
+  title: 'Wiki 后台管理系统',
 
   /**
    * @type {boolean} true | false
